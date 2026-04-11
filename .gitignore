@@ -8,3 +8,6 @@ bin/
 
 # Eclipse metadata (optional - keep .project and .classpath so imports work)
 .settings/
+
+# Submission archives (kept locally but not in repo)
+*.zip
