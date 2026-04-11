@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Eclipse / Java build output
+bin/
+**/bin/
+
+# Eclipse metadata (optional - keep .project and .classpath so imports work)
+.settings/
